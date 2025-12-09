@@ -1,4 +1,4 @@
-# The (unofficial) eSafety Toolkit
+# The (unofficial) eSafety Guidebook
 
 This group/repositories will not only host tools & resources for digital online safety but will attempt to provide almost a mirror to articles found on the official [eSafety Website](https://www.esafety.gov.au/) with a lot of the fear mongering ripped out.
 
